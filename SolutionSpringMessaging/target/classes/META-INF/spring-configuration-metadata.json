@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "solution.onlineretailer.ResourcesBean",
+      "name": "resources",
+      "type": "solution.onlineretailer.ResourcesBean"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "solution.onlineretailer.ResourcesBean",
+      "name": "resources.db",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "solution.onlineretailer.ResourcesBean",
+      "name": "resources.logs",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "solution.onlineretailer.ResourcesBean",
+      "defaultValue": false,
+      "name": "resources.secure",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
